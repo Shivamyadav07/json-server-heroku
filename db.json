@@ -1,18 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 0,
-      "title": "First post!",
-      "content": "My first content!"
-    }
-  ],
-  "comments": [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ],
   "MealDealsData": [
     {
       "imageUrl": "https://www.kindmeal.my/photos/deal/6/686-4475-l.jpg",
@@ -789,7 +775,7 @@
       "review": 3
     }
   ],
-  "MensData":[
+  "MensData": [
     {
       "image": "https://images.meesho.com/images/products/41926322/xyhny_512.jpg",
       "mrp": 546,
@@ -895,8 +881,8 @@
       "title": "Urbane Retro Men Tshirts"
     },
     {
-      "image": "https://images.meesho.com/images/products/40404411/0ikdy_512.jpg",     
-       "mrp": 249,
+      "image": "https://images.meesho.com/images/products/40404411/0ikdy_512.jpg",
+      "mrp": 249,
       "price": 175,
       "rating": 3.8,
       "review": 4,
@@ -949,6 +935,148 @@
       "rating": 3.8,
       "review": 5,
       "title": "Comfy Glamorous Men Shirts"
+    }
+  ],
+  "Groceries": [
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491963211/jiomart-blue-and-white-polyester-2-fold-umbrella-24-5-inch-product-images-o491963211-p590317361-0-202205180135.jpg",
+      "title": "Jiomart Blue and White Polyester 2 Fold Umbrella 62.2 cm",
+      "mrp":299.00 ,
+      "price":199.00 ,
+      "discount":33 
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490002339/closeup-everfresh-red-hot-triple-fresh-formula-toothpaste-80-g-product-images-o490002339-p490002339-0-202203170622.jpg",
+      "title": "Closeup Everfresh+ Red Hot Triple Fresh Formula Toothpaste 80 g",
+      "mrp":48.00 ,
+      "price":44.00 ,
+      "discount":8
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/592200116/saffola-gold-refined-rice-bran-and-sunflower-based-blended-oil-3-l-daawat-devaaya-basmati-rice-5-kg-combo-pack-0-20220624.jpg",
+      "title": "Saffola Gold Refined Rice Bran And Sunflower Based Blended Oil 3 L + Daawat Devaaya Basmati Rice 5 kg (Combo Pack)",
+      "mrp":1310.0 ,
+      "price":875.00 ,
+      "discount":33
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490005639/daawat-devaaya-basmati-rice-1-kg-product-images-o490005639-p490005639-0-202205172326.jpg",
+      "title": "Daawat Devaaya Basmati Rice 1 kg",
+      "mrp":125.00 ,
+      "price":92.00 ,
+      "discount":26
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490863714/daawat-rozana-super-basmati-rice-1-kg-product-images-o490863714-p490863714-0-202203171018.jpg",
+      "title": "Daawat Rozana Super Basmati Rice 1 kg",
+      "mrp":98.00 ,
+      "price":70.00 ,
+      "discount":28
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491173885/elina-long-grain-rice-1-kg-product-images-o491173885-p491173885-0-202203151443.jpg",
+      "title": "Elina Long Grain Rice 1 kg",
+      "mrp":160.00 ,
+      "price":50.00 ,
+      "discount":68
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490863678/daawat-pulav-basmati-rice-1-kg-product-images-o490863678-p490863678-0-202205172225.jpg",
+      "title": "Daawat Pulav Basmati Rice 1 kg",
+      "mrp":135.00 ,
+      "price":111.00 ,
+      "discount":17
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490000003/daawat-super-basmati-rice-1-kg-product-images-o490000003-p490000003-0-202203151745.jpg",
+      "title": "Daawat Super Basmati Rice 1 kg",
+      "mrp":190.00 ,
+      "price":120.00 ,
+      "discount":36
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490863667/daawat-biryani-basmati-rice-1-kg-product-images-o490863667-p490863667-0-202205191716.jpg",
+      "title": "Daawat Biryani Basmati Rice 1 kg",
+      "mrp":220.00 ,
+      "price":179.00 ,
+      "discount":18
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490419418/daawat-brown-basmati-rice-1-kg-product-images-o490419418-p490419418-0-202203150830.jpg",
+      "title": "Daawat Brown Basmati Rice 1 kg",
+      "mrp":175.00 ,
+      "price":145.00 ,
+      "discount":17
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491638884/daawat-devaaya-everyday-rice-5-kg-product-images-o491638884-p491638884-0-202203151831.jpg",
+      "title": "Daawat Devaaya Everyday Rice 5 kg",
+      "mrp":525.00 ,
+      "price":262.00 ,
+      "discount":50
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491638884/daawat-devaaya-everyday-rice-5-kg-product-images-o491638884-p491638884-0-202203151831.jpg",
+      "title": "Daawat Devaaya Biryani Basmati Rice 1 kg",
+      "mrp":215.00 ,
+      "price":105 ,
+      "discount":51
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490000002/daawat-rozana-gold-basmati-rice-1-kg-product-images-o490000002-p490000002-0-202207191357.jpg",
+      "title": "Daawat Rozana Gold Basmati Rice 1 kg",
+      "mrp":112.00 ,
+      "price":82.00 ,
+      "discount":26
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490005638/daawat-rozana-gold-basmati-rice-5-kg-product-images-o490005638-p490005638-0-202203171005.jpg",
+      "title": "Daawat Rozana Gold Basmati Rice 5 kg",
+      "mrp":560.00 ,
+      "price":399.00 ,
+      "discount":28
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491091893/daawat-dubar-basmati-rice-1-kg-product-images-o491091893-p491091893-0-202205191716.jpg",
+      "title": "Daawat Dubar Basmati Rice 1 kg",
+      "mrp":135.00 ,
+      "price":99.00 ,
+      "discount":26
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490005499/daawat-traditional-basmati-rice-1-kg-product-images-o490005499-p490005499-0-202203151142.jpg",
+      "title": "Daawat Traditional Basmati Rice 1 kg",
+      "mrp":210.00 ,
+      "price":185.00 ,
+      "discount":11
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492864682/daawat-pulav-basmati-rice-500-g-product-images-o492864682-p593338781-0-202208012029.jpg",
+      "title": "Daawat Pulav Basmati Rice 500 g",
+      "mrp":75.00 ,
+      "price":45.00 ,
+      "discount":40
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492864681/devaaya-weight-watchers-brown-rice-1-kg-product-images-o492864681-p593338816-0-202208012030.jpg",
+      "title": "Devaaya Weight Watchers Brown Rice 1 kg",
+      "mrp":99.00 ,
+      "price":79.00 ,
+      "discount":20
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491019524/daawat-rozana-super-basmati-rice-5-kg-product-images-o491019524-p491019524-0-202203171025.jpg",
+      "title":"Daawat Rozana Super Basmati Rice 5 kg",
+      "mrp":486.00 ,
+      "price":349.00 ,
+      "discount":28
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491316815/daawat-sehat-mogra-70-basmati-rice-10-kg-product-images-o491316815-p491316815-0-202205191716.jpg",
+      "title": "Daawat Sehat Mogra 70 Basmati Rice 10 kg",
+      "mrp":790.00 ,
+      "price":649.00 ,
+      "discount":17
     }
   ]
 }
