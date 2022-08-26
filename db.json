@@ -1646,5 +1646,147 @@
       "price": 584.00,
       "discount": 65
     }
+  ],
+  "Electronics":[
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/490998917/sandisk-32-gb-cruzer-blade-pen-drive-digital-o490998917-p590034486-0-202009260643.jpeg",
+      "title":"Sandisk 32 GB Cruzer Blade USB Flash Drive, CZ50-032GB-B35",
+      "mrp": 799.00,
+      "price": 319.00,
+      "discount":60
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/rvhqzehgxl/ptron-bassbuds-duo-new-bluetooth-5-1-wireless-headphones-32hrs-total-playtime-stereo-audio-touch-control-tws-dual-hd-mic-type-c-fast-charging-ipx4-water-resistant-voice-assistance-black-product-images-orvhqzehgxl-p591641565-0-202205272103.jpg",
+      "title":"pTron Bassbuds Duo New Bluetooth 5.1 Wireless Headphones, 32Hrs Total Playtime, Stereo Audio, Touch Control TWS, Dual HD Mic, Type-C Fast Charging, IPX4 Water-Resistant & Voice Assistance (Black)",
+      "mrp": 2599.0,
+      "price": 699.00,
+      "discount":73
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/491431505/anker-a2501011-wireless-charger-digital-o491431505-p590036518-0-202009260334.jpeg",
+      "title":"Anker A2501011 7.5 Watts Qi Certified Wireless Charger",
+      "mrp": 4999.0,
+      "price": 1999.00,
+      "discount":59
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/rvaq9eao0r/zunvolt-2l-electric-kettle-silver-product-images-orvaq9eao0r-p591300421-0-202205140114.jpg",
+      "title":"ZunVolt 2L Electric Kettle, Silver",
+      "mrp": 1499.0,
+      "price": 499.00,
+      "discount":66
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/rvmumfamdk/zunvolt-1000-w-electric-dry-iron-white-product-images-orvmumfamdk-p591300422-0-202205140114.jpg",
+      "title":"ZunVolt 1000 W Electric Dry Iron, White",
+      "mrp": 849.00,
+      "price": 399.00,
+      "discount":53
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/rvsbdq6c21/elv-direct-x-lap-std-foldable-portable-laptop-stand-compatible-with-laptops-upto-15-6-inch-39-62-cm-black-product-images-orvsbdq6c21-p591295254-0-202205132053.jpg",
+      "title":"ELV DIRECT X-LAP-STD Foldable Portable Laptop Stand Compatible with Laptops Upto 15.6 inch (39.62 cm), Black",
+      "mrp": 1399.0,
+      "price": 229.00,
+      "discount":83
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/rvbwzwaui8/maharaja-whiteline-odacio-plus-550watt-3-jar-black-and-silver-juicer-mixer-grinder-product-images-orvbwzwaui8-p591728763-0-202205301651.jpg",
+      "title":"MAHARAJA WHITELINE ODACIO PLUS 550WATT 3 JAR BLACK AND SILVER JUICER MIXER GRINDER",
+      "mrp": 5099.0,
+      "price": 3385.0,
+      "discount":33
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/rvymlsawwg/bajaj-majesty-canvas-1000-w-dry-iron-light-weight-instant-heat-brown-product-images-orvymlsawwg-p591302591-0-202205140328.jpg",
+      "title":"Bajaj MAJESTY CANVAS 1000 W Dry Iron Light Weight & Instant Heat, Brown",
+      "mrp": 995.00,
+      "price": 899.00,
+      "discount":9
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/rvf7ypalxs/noymi-et-147-bluetooth-neckband-wireless-earphones-product-images-orvf7ypalxs-p591296975-0-202205132214.jpg",
+      "title":"Noymi ET-147 Bluetooth Neckband wireless Earphones",
+      "mrp": 2599.0,
+      "price": 295.00,
+      "discount":88
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/491946580/oppo-a15s-64-gb-4-gb-ram-fancy-white-mobile-phone-digital-o491946580-p590441637-0-202208022043.jpeg",
+      "title":"OPPO A15s 64 GB, 4 GB RAM, Fancy White, Mobile Phone",
+      "mrp": 13990,
+      "price": 9990.0,
+      "discount":28
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/492664295/pigeon-mini-eco-handy-chopper-with-3-blades-digital-o492664295-p590998332-0-202201200934.jpeg",
+      "title":"Pigeon Mini Eco Handy Chopper with 3 Blades",
+      "mrp": 445.00,
+      "price": 209.00,
+      "discount":53
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/492796965/ptron-basspods-p181-bluetooth-5-1-wireless-headphones-32hrs-total-playtime-immersive-stereo-sound-stereo-calls-snug-fit-tws-earbuds-touch-controls-voice-assistance-type-c-fast-charging-ipx4-black-digital-o492796965-p591278358-0-202205120856.jpeg",
+      "title":"pTron Basspods P181 Bluetooth 5.1 Wireless Headphones, 32Hrs Total Playtime, Immersive Stereo Sound, Stereo Calls, Snug-fit TWS Earbuds, Touch Controls, Voice Assistance, Type-C Fast Charging & IPX4 (Black)",
+      "mrp": 2999.0,
+      "price": 699.00,
+      "discount":76
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/491903183/bpl-styleup-bbtd0013c-px-beard-trimmer-with-digital-battery-indicator-fast-charging-li-ion-battery-with-70-mins-usage-time-with-4-combs-settings-2-years-manufacturer-warranty-black-with-light-gold-2021-digital-o491903183-p590705086-0-202112300033.jpeg",
+      "title":"BPL Beard Trimmer with Digital Battery Indicator, 70mins Cordless Usage, Fast Charging, 4 Comb Settings, 2 Years Warranty, Black and Light Gold",
+      "mrp": 1699.0,
+      "price": 409.00,
+      "discount": 75
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/rvwpl4bik9/damdam-smartwatch-screen-guard-fire-boltt-ring-bluetooth-calling-smartwatch-pack-of-5-product-images-orvwpl4bik9-p592182556-0-202206232054.jpg",
+      "title":"DAMDAM Smartwatch Screen Guard Fire Boltt Ring Bluetooth Calling Smartwatch (Pack of 5)",
+      "mrp": 999.00,
+      "price": 249.00,
+      "discount":75
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/492850035/oneplus-nord-ce-2-lite-5g-128-gb-6-gb-ram-blue-tide-mobile-phone-digital-o492850035-p591224603-0-202208112007.png",
+      "title":"OnePlus Nord CE 2 Lite 5G,128 GB,6 GB RAM,Blue Tide,Mobile Phone",
+      "mrp": 19999,
+      "price": 18999,
+      "discount":5
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/493285605/boat-airdopes-131-true-wireless-earbuds-with-insta-wake-n-pair-technology-viper-green-digital-o493285605-p593228261-0-202207292116.jpeg",
+      "title":"boAt Airdopes 131 True Wireless Earbuds with Insta Wake N' Pair Technology, Viper Green",
+      "mrp": 2999.0,
+      "price": 1199.0,
+      "discount":60
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/491998466/samsung-galaxy-m52-128-gb-6-gb-ram-icy-blue-mobile-phone-digital-o491998466-p590989306-0-202208031906.jpeg",
+      "title":"Samsung Galaxy M52 128 GB, 6 GB RAM Icy Blue, Mobile Phone",
+      "mrp": 49999,
+      "price":29999 ,
+      "discount":15
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/491998337/hp-v222w-32-gb-usb-2-0-flash-drive-digital-o491998337-p590910209-0-202111261859.jpeg",
+      "title":"HP v222w 32 GB USB 2.0 Flash Drive",
+      "mrp": 700.00,
+      "price": 329.00,
+      "discount":53
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/493285606/boat-airdopes-131-true-wireless-earbuds-with-insta-wake-n-pair-technology-ivory-white-digital-o493285606-p593228262-0-202207292116.jpeg",
+      "title":"boAt Airdopes 131 True Wireless Earbuds with Insta Wake N' Pair Technology, Ivory White",
+      "mrp": 2999.0,
+      "price": 1199.0,
+      "discount":60
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/493285604/boat-airdopes-131-true-wireless-earbuds-with-insta-wake-n-pair-technology-crimson-cream-digital-o493285604-p593228260-0-202207292116.jpeg",
+      "title":"boAt Airdopes 131 True Wireless Earbuds with Insta Wake N' Pair technology, Crimson Cream",
+      "mrp": 2999.0,
+      "price": 1199.0,
+      "discount":60
+    }
   ]
 }
