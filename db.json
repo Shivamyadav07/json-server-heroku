@@ -1078,5 +1078,147 @@
       "price":649.00 ,
       "discount":17
     }
+  ],
+  "PremiumFruits":[
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991404/avocado-hass-premium-imported-3-pc-approx-780-g-960-g-product-images-o599991404-p591778572-0-202207282047.jpg",
+      "title":"Avocado Hass Premium Imported 3 Pc (Approx 780 g - 960 g)",
+      "mrp":470.00 ,
+      "price": 399.00,
+      "discount":15
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599990932/blueberry-premium-imported-pack-125-g-product-images-o599990932-p590860270-0-202207282047.jpg",
+      "title":"Blueberry Premium Imported Pack 125 g",
+      "mrp": 220.00,
+      "price": 199.00,
+      "discount":9
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991440/curate-s-classic-fruit-box-premium-1-pack-product-images-o599991440-p591778564-0-202208052307.jpg",
+      "title":"Curate's Classic Fruit Box Premium 1 Pack",
+      "mrp": 350.00,
+      "price": 299.00,
+      "discount":14
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991204/pomegranate-kesar-medium-premium-indian-4-pc-approx-1-kg-1-12-kg-product-images-o599991204-p591041952-0-202207282047.jpg",
+      "title":"Pomegranate Kesar Medium Premium Indian 4 Pc (Approx 1 Kg - 1.12 Kg)",
+      "mrp": 250.00,
+      "price": 199.00,
+      "discount": 20
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991441/curate-s-wonder-fruit-box-premium-1-pack-product-images-o599991441-p591778565-0-202208052307.jpg",
+      "title":"Curate's Wonder Fruit Box Premium 1 Pack",
+      "mrp":549.00,
+      "price": 399.00,
+      "discount":27
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599990786/cherry-red-premium-imported-pack-250-g-product-images-o599990786-p591189411-0-202207282045.jpg",
+      "title":"Cherry Red Premium Imported Pack 250 g",
+      "mrp":960.00 ,
+      "price": 849.00,
+      "discount": 11
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991363/cherry-red-premium-imported-pack-500-g-product-images-o599991363-p591238235-0-202207282047.jpg",
+      "title":"Cherry Red Premium Imported Pack 500 g",
+      "mrp": 1920.0,
+      "price": 1649.0,
+      "discount":14 
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991295/apple-royal-gala-new-zealand-premium-imported-4-pc-approx-750-g-860-g-product-images-o599991295-p591211900-0-202207282046.jpg",
+      "title":"Apple Royal Gala New Zealand Premium Imported 4 Pc (Approx 640 g - 760 g)",
+      "mrp":350.00,
+      "price": 299.00,
+      "discount":14
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599990933/blueberry-premium-imported-pack-250-g-product-images-o599990933-p590860345-0-202207282047.jpg",
+      "title":"Blueberry Premium Imported Pack 250 g",
+      "mrp":440.00 ,
+      "price": 398.00,
+      "discount":9
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991335/avocado-hass-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-0-202207282047.jpg",
+      "title":"Avocado Hass Premium Imported 1 Pc (Approx 260 g - 320 g)",
+      "mrp": 160.0,
+      "price": 149.00,
+      "discount":6
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991100/dates-oriental-king-solomon-premium-imported-pack-500-g-product-images-o599991100-p591021568-0-202207282047.jpg",
+      "title":"Dates Oriental King Solomon Premium Imported Pack 500 g",
+      "mrp": 475.00,
+      "price": 237.00,
+      "discount": 50
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599990588/mangosteen-premium-indian-6-pc-approx-490-g-570-g-product-images-o599990588-p591238248-0-202207282046.jpg",
+      "title":"Mangosteen Premium Indian 6 Pc (Approx 490 g - 570 g)",
+      "mrp": 470.00,
+      "price": 329.00,
+      "discount":30
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991444/curate-s-signature-fruit-box-premium-imported-1-pack-product-images-o599991444-p591778568-0-202207282047.jpg",
+      "title":"Curate's Signature Fruit Box Premium Imported 1 Pack",
+      "mrp": 1199.0,
+      "price": 999.00,
+      "discount": 16
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991443/curate-s-bliss-fruit-box-premium-imported-1-pack-product-images-o599991443-p591778567-0-202207282047.jpg",
+      "title":"Curate's Bliss Fruit Box Premium Imported 1 Pack",
+      "mrp": 850.00,
+      "price": 799.00,
+      "discount":6
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991442/curate-s-delight-fruit-box-premium-imported-1-pack-product-images-o599991442-p591778566-0-202207282047.jpg",
+      "title":"Curate's Delight Fruit Box Premium Imported 1 Pack",
+      "mrp":700.00 ,
+      "price": 599.00,
+      "discount":14
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991405/avocado-hass-premium-imported-6-pc-approx-1-55-kg-1-95-kg-product-images-o599991405-p591778573-0-202207282047.jpg",
+      "title":"Avocado Hass Premium Imported 6 Pc (Approx 1.55 kg - 1.95 kg)",
+      "mrp": 950.00,
+      "price": 783.00,
+      "discount":16
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599990956/blueberry-premium-imported-pack-500-g-product-images-o599990956-p590860406-0-202207282047.jpg",
+      "title":"Blueberry Premium Imported Pack 500 g",
+      "mrp": 880.00,
+      "price":796.00 ,
+      "discount":9
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991374/pear-forelle-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991374-p591238252-0-202207282046.jpg",
+      "title":"Pear Forelle Premium Imported 4 Pc (Approx 720 g - 880 g)",
+      "mrp":350.00,
+      "price":249.00 ,
+      "discount":28
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599991344/pear-packham-premium-imported-6-pc-approx-1-10-kg-1-30-kg-product-images-o599991344-p591226026-0-202207282046.jpg",
+      "title":"Pear Packham Premium Imported 6 Pc (Approx 1.10 kg - 1.30 kg)",
+      "mrp":255.00 ,
+      "price": 180.00,
+      "discount":29
+    },
+    {
+      "image":"https://www.jiomart.com/images/product/150x150/599990226/dragonfruit-red-flesh-premium-indian-1-pc-approx-300-g-450-g-product-images-o599990226-p590860310-0-202207282046.jpg",
+      "title":"Dragonfruit Red Flesh Premium Indian 1 pc (Approx 375 g - 475 g)",
+      "mrp": 150.00,
+      "price": 109.00,
+      "discount":27
+    }
   ]
 }
