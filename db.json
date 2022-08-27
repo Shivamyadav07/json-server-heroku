@@ -2071,30 +2071,5 @@
       "discount":9
     }
   ],
-  "Cart":[
-    {
-      "id": 1,
-      "image": "https://www.jiomart.com/images/product/150x150/491963211/jiomart-blue-and-white-polyester-2-fold-umbrella-24-5-inch-product-images-o491963211-p590317361-0-202205180135.jpg",
-      "title": "Jiomart Blue and White Polyester 2 Fold Umbrella 62.2 cm",
-      "mrp": 299,
-      "price": 199,
-      "discount": 33
-    },
-    {
-      "id": 6,
-      "image": "https://www.jiomart.com/images/product/150x150/491173885/elina-long-grain-rice-1-kg-product-images-o491173885-p491173885-0-202203151443.jpg",
-      "title": "Elina Long Grain Rice 1 kg",
-      "mrp": 160,
-      "price": 50,
-      "discount": 68
-    },
-    {
-      "id": 7,
-      "image": "https://www.jiomart.com/images/product/150x150/490863678/daawat-pulav-basmati-rice-1-kg-product-images-o490863678-p490863678-0-202205172225.jpg",
-      "title": "Daawat Pulav Basmati Rice 1 kg",
-      "mrp": 135,
-      "price": 111,
-      "discount": 17
-    }
-  ]
+  "Cart":[]
 }
