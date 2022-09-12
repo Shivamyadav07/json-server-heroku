@@ -3193,5 +3193,17 @@
       "price": 3430.0,
       "discount":9
     }
+  ],
+  "username": [
+    {
+      "phnop": "8975715590",
+      "fistname": "Myron",
+      "lastname": "Pereira",
+      "email": "myronpereira3@gmail.com",
+      "password": "12345",
+      "repassword": "12345",
+      "otp": "5555",
+      "id": 1
+    }
   ]
 }
