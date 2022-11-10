@@ -3205,5 +3205,19 @@
       "otp": "5555",
       "id": 1
     }
+  ],
+  "property":[
+    {
+      "name":"shivam",
+      "price":2000,
+      "location":"varanasi",
+      "adress":"chandpur mustafadad varanasi",
+      "date":"01/10/22",
+      "beds":4,
+      "bathroom":2,
+      "area":"8*2ms",
+      "image":"shivam",
+      "id":1
+    }
   ]
 }
